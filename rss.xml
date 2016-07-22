@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Mortgage Handbook]]></title>
+        <description><![CDATA[The Mortgage Handbook]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Jul 2016 04:04:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Much Will the Lower USDA Fees Save You?]]></title>
+            <description><![CDATA[<article><h1>How Much Will the Lower USDA Fees Save You?</h1><p>USDA announced they are reducing both the upfront Guarantee fee and the Annual mortgage insurance fee (paid monthly) for purchase and refinance loans. Lower costs for the $0 down USDA loan will help make USDA financing for rural homebuyers even more affordable.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8ec5c9c-cc7f-4e01-bf5d-7fe8ff1b8f3b.jpg"></article>]]></description>
+            <link>undefinedhow-much-will-the-lower-usda-fees-save-you/index.html</link>
+            <guid isPermaLink="false">5e3c8c7e-e336-475c-b5e5-97d8d90a944b</guid>
+            <pubDate>Fri, 22 Jul 2016 04:04:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
