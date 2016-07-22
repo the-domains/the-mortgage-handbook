@@ -1,7 +1,7 @@
 name: The Mortgage Handbook
 favicon: null
-layout_spectrum: 0.0577730278018862
-typography_spectrum: 0.7615111381746829
+layout_spectrum: 1
+typography_spectrum: 0.77205
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.9533250448293984
+    - '#9ba3b6'
+    - '#2c2d27'
+    - '#54604c'
+    - '#d9e6f7'
+    - '#bb7a5e'
+  brandStrength: 0.5
   lightness: 0.6297593950293958
   saturation: 0.5733362876344472
   rhythmicContrast: 0.38059015152975917
